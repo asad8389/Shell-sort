@@ -1,2 +1,2 @@
 # Shell-sort
-another sorting technique in c++ language.
+Implementation of Shell Sort in c++ language.
